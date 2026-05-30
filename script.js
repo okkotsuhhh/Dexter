@@ -272,7 +272,102 @@ let songs = [
             { time: 148.0, text: "So kiss me" }]
                 
             },
+
+     {
+        id: 8,
+        title: "The Color Violet",
+        artist: "tory lanez",
+        album: "Alone at Prom",
+        albumArtUrl: "https://t2.genius.com/unsafe/387x387/https%3A%2F%2Fimages.genius.com%2F3be07a6b868cacd8b452556295777267.1000x1000x1.png",
+        audioSrc: "audio/tcv.mp3",
+        videoBgSrc: "videos/tcv.mp4",
+        lyrics: [
+         { time: 0.0, text: "..." },
+            { time: 18.2, text: "I took my drugs and took my lovin' when I left out the spot" },
+            { time: 23.0, text: "I left the party with a Barbie, markin' X on the dot" },
+            { time: 27.8, text: "She calls my phone up but I told her, (I'm a loner) (uh)" },
+            { time: 32.4, text: "But she likes my watch and my droptop and my persona (uh)" },
+            { time: 37.0, text: "We hit the highway, 1-5-5, with my whole foot on the dash" },
+
+            { time: 41.5, text: "She's in my ear, she's got no fear, she could care less if we crash" },
+            { time: 46.2, text: "But on my radar, I've got some nerve to play hard" },
+            { time: 50.3, text: "I waited for my chance, but playboys, we don't dance" },
+            { time: 53.9, text: "I lost my heart" },
+
+            { time: 56.8, text: "Speedin' car, goin' ninety in the rain" },
+            { time: 60.7, text: "She took my heart, filled it with nothin' but pain" },
+            { time: 65.3, text: "This beat in my dance is not for romance" },
+            {time :69.5,text:"I wanna stay but, playboys, we don't dance, dance, dance"},
+            { time: 75.0, text: "So I won't dance again (I), oh, baby" },
+            { time: 79.4, text: "No, I won't dance again (that's why), ooh, yeah (uh)" },
+            { time: 84.2, text: "No, I won't dance again (I)" },
+            { time: 86.4, text: "No, I won't dance again" },
+            
+            { time: 89.0, text: "Pretty baby, ooh" },
+            { time: 109.3, text: "Uh, face in the daylight, wastin' time on the stars in the sky" },
+            { time: 114.5, text: "She's got my pager, blankets of love all on my eyes" },
+            { time: 119.0, text: "Then I'm reminded, love don't come 'til you find it" },
+            { time: 123.0, text: "I just hope that it's workin', I'm yearnin', I'm searchin', uh" },
+            { time: 128.0, text: "The afterparty was on Wilson and 73rd" },
+            
+            { time: 132.7, text: "You got the notion that somebody else was with me first" },
+            { time: 137.0, text: "But on my radar, you had some nerve to play hard" },
+            { time: 141.0, text: "You took away my chance, but playboys, we don't dance, dance, dance" },
+            { time: 145.0, text: "I lost my heart (uh)" },
+            { time: 147.9, text: "Speedin' car, goin' ninety in the rain" },
+
+            { time: 151.8, text: "She took my heart, filled it with nothin' but pain" },
+            { time: 156.3, text: "This beat in my dance is not for romance" },
+            {time :161.0,text:"I wanna stay but, playboys, we don't dance, dance, dance"},
+            { time: 166.0, text: "So I won't dance again (I), oh, baby" },
+            { time: 170.8, text: "No, I won't dance again (that's why), ooh, yeah (uh)" },
+            { time: 175.6, text: "No, I won't dance again (I)" },
+            { time: 178.0, text: "No, I won't dance again" },
+            { time: 180.4, text: "Pretty baby, ooh" },
+        
+        
+        
+        
+        
+        
+        ]
+                
+            },
 ];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 let currentSongIndex = 0;
 let isPlaying = false;
