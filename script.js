@@ -282,13 +282,12 @@ let songs = [
         audioSrc: "audio/tcv.mp3",
         videoBgSrc: "videos/tcv.mp4",
         lyrics: [
-         { time: 0.0, text: "..." },
+                  { time: 0.0, text: "..." },
             { time: 18.2, text: "I took my drugs and took my lovin' when I left out the spot" },
             { time: 23.0, text: "I left the party with a Barbie, markin' X on the dot" },
             { time: 27.8, text: "She calls my phone up but I told her, (I'm a loner) (uh)" },
             { time: 32.4, text: "But she likes my watch and my droptop and my persona (uh)" },
             { time: 37.0, text: "We hit the highway, 1-5-5, with my whole foot on the dash" },
-
             { time: 41.5, text: "She's in my ear, she's got no fear, she could care less if we crash" },
             { time: 46.2, text: "But on my radar, I've got some nerve to play hard" },
             { time: 50.3, text: "I waited for my chance, but playboys, we don't dance" },
@@ -325,6 +324,96 @@ let songs = [
             { time: 178.0, text: "No, I won't dance again" },
             { time: 180.4, text: "Pretty baby, ooh" },
         
+        
+        
+        
+        
+        
+        ]
+                
+            },
+                 {
+        id: 2,
+        title: "Ballad of a Badman",
+        artist: "tory lanez",
+        album: "Alone at Prom",
+        albumArtUrl: "https://t2.genius.com/unsafe/387x387/https%3A%2F%2Fimages.genius.com%2F3be07a6b868cacd8b452556295777267.1000x1000x1.png",
+        audioSrc: "audio/tcv1.mp3",
+        videoBgSrc: "videos/tcv.mp4",
+        lyrics: [
+         { time: 0.0, text: "..." },
+            { time: 2.7, text: "Ooh, you got me" },
+            { time: 8.3, text: "Ooh, you got me" },
+            { time: 14.8, text: "Ooh, you got me" },
+            { time: 20.4, text: "Ooh, you got me" },
+            { time: 23.0, text: "You have to leave, just stay for a while" },
+
+            { time: 26.0, text: "The longer you stay, the better the time" },
+            { time: 29.0, text: "You listen to your friends, they lie" },
+            { time: 32.0, text: "I don't mind, I don't mind" },
+            { time: 35.0, text: "Feelin's get caught up in the mind" },
+
+            { time: 38.0, text: "A shootin' star pass by my eye" },
+            { time: 41.0, text: "When I don't know just what to do" },
+            { time: 44.0, text: "She won't blow my high" },
+            {time :47.0,text:"Don't you stop turnin' me on (ooh, you got me)"},
+            { time: 52.2, text: "I wanna feel like this all night long (ooh, you got me)" },
+            { time: 58.7, text: "Don't you stop turnin' me on (don't you stop turnin' me on)" },
+            { time: 64.0, text: "I wanna feel like this all night long (feel like this all night long, yeah)" },
+            { time: 73.5, text: "Turnin' me on" },
+            
+            { time: 79.5, text: "All night, night, long (oh yeah)" },
+            { time: 82.3, text: "You wanna stay, just stay for long" },
+            { time: 85.3, text: "'Cause you got the sweetest touch I know" },
+            { time: 88.4, text: "You might just dance with them other guys" },
+            { time: 91.0, text: "But I don't mind, I know you're mine" },
+            { time: 94.7, text: "I don't care just what they say" },
+            
+            { time: 97.4, text: "Lovin' you long takes the pain away" },
+            { time: 100.0, text: "So when you look me in my eyes" },
+            { time: 103.0, text: "Will you take some time?" },
+
+
+
+
+            { time: 106.0, text: "Don't you stop turnin' me on (ooh, you got me)" },
+            { time: 111.2, text: "I wanna feel like this all night long (ooh, you got me)" },
+
+            { time: 117.7, text: "Don't you stop turnin' me on (don't you stop turnin' me on)" },
+            { time: 123.0, text: "I wanna feel like this all night long (feel like this all night long)" },
+            {time :133.0,text:"Turnin' me on"},
+            { time: 138.5, text: "It's just, I can't fight this feelin' (all night, night, long)" },
+            { time: 141.5, text: "Woah, oh-oh, ooh-woah, yeah" },
+            { time: 147.0, text: "Ooh-woah, oh, oh" },
+            { time: 150.0, text: "Yeah, yeah" },
+            { time: 151.3, text: "I can't fight this feelin'" },
+            { time: 153.4, text: "Woah, ooh-woah, oh, woah, ooh, yeah" },
+            { time: 159.4, text: "Don't fight this feelin'" },
+            { time: 161.9, text: "Don't fight this feelin'" },
+
+            { time: 163.9, text: "ooh-woah, ooh-ooh, woah, oh'" },
+
+            { time: 165.6, text: "Don't you stop turnin' me on (don't you stop turnin' me on, ooh, you got me)'" },
+            { time: 170.9, text: "I wanna feel like this all night long (like this for oh, like this for oh so long)'" },
+            { time: 177.5, text: "Don't you stop turnin' me on (don't you stop turnin' me on)'" },
+        
+
+            { time: 182.5, text: "I wanna feel like this all night long (feel like this all night long)'" },
+            { time: 189.5, text: "Don't you stop turnin' me on (turnin' me on)'" },
+            { time: 194.9, text: "I wanna feel like this all night long (all night, night long'" },
+
+            { time: 200.9, text: "Don't you stop turnin' me on (ooh, you got me)'" },
+
+
+
+            { time: 206.5, text: "I wanna feel like this all night long (all night, night long, ooh, you got me)'" },
+            { time: 213.1, text: "Don't you stop turnin' me on (ooh, you got me)'" },
+
+            { time: 218.0, text: "I wanna feel like this all night long (all night, night long, ooh, you got me)'" },
+            { time: 225.0, text: "((Don't you stop turnin' me on (ooh, you got me))'" },
+            { time: 231.0, text: "((Feel like this all night long (ooh, you got me))" },
+            { time: 237.0, text: "((Don't you stop turnin' me on (ooh, you got me))" },
+            { time: 243.0, text: "(((Feel like this all night long (ooh, you got me))" },
         
         
         
