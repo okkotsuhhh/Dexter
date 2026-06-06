@@ -422,6 +422,135 @@ let songs = [
         ]
                 
             },
+
+                     {
+        id: 2,
+        title: "Die hard",
+        artist: "kendrick lamar blxst & amanda reifer",
+        album: "mr. morale & the big steppers",
+        albumArtUrl: "https://t2.genius.com/unsafe/387x387/https%3A%2F%2Fimages.genius.com%2F2f8cae9b56ed9c643520ef2fd62cd378.1000x1000x1.png",
+        audioSrc: "audio/a.mp3",
+        videoBgSrc: "videos/a.mp4",
+        lyrics: [
+         { time: 0.0, text: "..." },
+            { time: 4.7, text: "I pop the pain away, I slide the pain away" },
+            { time: 7.0, text: "I pop the pain away, I slide the pain away" },
+            { time: 10.4, text: "I picked you up when you fell and cut your knee" },
+            { time: 20.0, text: "Told you not to cry and held you close to me" },
+
+            { time: 29.0, text: "I hope I'm not too late to set my demons straight" },
+
+            { time: 34.0, text: "TheI know I made you wait, but how much can you take?" },
+            { time: 39.0, text: "I hope you see the God in me, I hope you can see" },
+
+            { time: 43.4, text: "And if it's up, stay down for me, yeah" },
+            { time: 47.0, text: "Shimmy, shimmy, cocoa puff" },
+
+            { time: 49.5, text: "Serafina, flame in us" },
+            { time: 52.0, text: "Where I'd be without your love" },
+
+            { time: 54.4, text: "Rest your wings and trust, I feel you" },
+
+            {time :56.6,text:"Deep (I know you feeling), deep (know you feel)"},
+            { time: 59.3, text: "Deep (I know you feeling), deep (too deep, ooh)" },
+
+            { time: 61.5, text: "Deep (I know you feeling), deep (deep, know you feel)" },
+
+            { time: 64.0, text: "Deep (I know you feeling), deep (you)" },
+            { time: 66.0, text: "Do you love me? (Okay) do you trust me? (Okay)" },
+            
+            { time: 68.2, text: "Can I trust you? (Okay) don't judge me (okay)" },
+
+
+            { time: 70.6, text: "I'ma die hard, it gets ugly (okay)" },
+
+
+            { time: 73.0, text: "Too passionate, it gets ugly (okay)" },
+            { time: 75.8, text: "Mmh, ah" },
+            { time: 78.8, text: "I wonder where I lost my way" },
+            { time: 80.7, text: "Mmh, ah" },
+            
+            { time: 83.4, text: "Been waiting on your call all day" },
+
+
+
+            { time: 85.4, text: "Tell me you in my corner right now" },
+            { time: 87.7, text: "When I fall short, I'm leaning on you to cry out" },
+
+            { time: 90.0, text: "We all got enough to lie about" },
+            { time: 92.4, text: "My truth too complicated to hide now" },
+
+            { time: 94.9, text: "Can I open up? Is it safe or not?" },
+           
+
+
+            { time: 97.0, text: "I'm afraid a little, you relate or not?" },
+            {time :99.2,text:"Have faith a little, I might take my time"},
+            { time: 102.2, text: "Ain't no saving face this time" },
+
+
+            { time: 105.0, text: "I hope I'm not too late to set my demons straight" },
+
+            { time: 110.0, text: "I know I made you wait, but how much can you take?" },
+
+
+
+            { time: 115.0, text: "I hope you see the God in me, I hope you can see" },
+
+
+            { time: 120.0, text: "And if it's up, stay down for me, yeah'" },
+
+
+            { time: 123.2, text: "Shimmy, shimmy, cocoa puff" },
+            { time: 125.6, text: "Serafina, flame in us'" },
+            { time: 128.0, text: "Where I'd be without your love'" },
+            { time: 130.3, text: "Rest your wings and trust, I feel you'" },
+
+            { time: 133.0, text: "Deep (I know you feeling), deep (know you feel)" },
+
+            { time: 135.0, text: "Deep (I know you feeling), deep (too deep, ooh)" },
+            { time: 137.5, text: "Deep (I know you feeling), deep (deep, know you feel)" },
+            { time: 139.5, text: "Deep (I know you feeling), deep (you)" },
+
+            { time: 141.6, text: "I got some regrets (I-I-I-I, yeah, yeah)" },
+            { time: 145.7, text: "But my past won't keep me from my best (I-I-I-I, yeah, yeah)" },
+            { time: 150.2, text: "Subtle mistakes felt like life or death (I-I-I-I, yeah, yeah)" },
+
+
+            { time: 154.5, text: "I wanna see the family stronger" },
+            { time: 157.1, text: "I wanna see the money longer" },
+
+            { time: 160.7, text: "You know that I'd die for you (I picked you up when you fell)" },
+            { time: 165.3, text: "I get emotional about life" },
+        
+            { time: 167.0, text: "The lost ones keepin' me up at night" },
+            { time: 169.8, text: "The world be reminding me it's danger" },
+
+
+            { time: 171.8, text: "I still risk it all for a stranger" },
+
+            { time: 176.0, text: "If I told you who I am, would you use it against me?" },
+
+            { time: 178.0, text: "Right or wrong, no stone, just love to send me" },
+
+
+            { time: 181.0, text: "I hope I'm not too late to set my demons straight" },
+
+
+            { time: 186.0, text: "I know I made you wait, but how much can you take?" },
+            { time: 191.0, text: "I hope you see the God in me, I hope you can see" },
+
+            { time: 195.75, text: "And if it's up, stay down for me, yeah" },
+
+            { time: 199.3, text: "Baby, you make me pray for London" },
+            { time: 206.25, text: "Yeah, 'cause if I won it all without you involved" },
+            { time: 212.7, text: "I guess it's all for nothing" },
+        
+        
+        
+        ]
+                
+            },
 ];
 
 
